@@ -1,0 +1,34 @@
+{
+  "name": "codecraftsavvy",
+  "version": "1.0.2",
+  "description": "codecraftsavvy",
+  "type": "module",
+  "main": "codecraftsavvy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oquinnuf2023/codecraftsavvy"
+  },
+  "website": "https://github.com/oquinnuf2023/codecraftsavvy.git",
+  "keywords": [
+    "codecraftsavvy"
+  ],
+  "author": "oquinnuf2023",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oquinnuf2023/codecraftsavvy/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/oquinnuf2023/codecraftsavvy#readme",
+  "dependencies": {
+    "programcodewhisper": "1.0.2",
+    "devcodecraftguru": "1.0.2",
+    "programcraftpro": "1.0.2",
+    "codescriptguru": "1.0.2"
+  }
+}
